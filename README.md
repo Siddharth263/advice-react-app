@@ -22,11 +22,11 @@ This project is deployed on Netlify. You can access the deployed version [here](
 
 To get a local copy of the project up and running on your machine, follow these steps:
 
-1. Clone the repository to your local machine: git clone https://github.com/Siddharth263/advice-react-app.git
-2. Navigate to the project directory: cd react-advice-app
-3. Install the dependencies: npm install
-4. Start the development server: npm start
-5. Open your web browser and visit http://localhost:3000 to view the app.
+1. Clone the repository to your local machine: (`git clone https://github.com/Siddharth263/advice-react-app.git`)
+2. Navigate to the project directory: (`cd react-advice-app`)
+3. Install the dependencies: (`npm install`)
+4. Start the development server: (`npm start`)
+5. Open your web browser and visit (`http://localhost:3000`) to view the app.
 
 ## Usage
 
