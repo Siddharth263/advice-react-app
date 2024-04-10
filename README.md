@@ -10,7 +10,7 @@ This is a simple web application built with React that fetches random advice fro
 
 ## Deployment
 
-This project is deployed on Netlify. You can access the deployed version [here](###add the website URL).
+This project is deployed on Netlify. You can access the deployed version [here](https://tiny-strudel-6a55b2.netlify.app).
 
 ## Technologies Used
 
@@ -35,7 +35,7 @@ To get a local copy of the project up and running on your machine, follow these 
 
 ## Screenshots
 
-[Add screenshots of your app here if applicable]
+![Advice Image](src/images/advice.png)
 
 ## Contributing
 
