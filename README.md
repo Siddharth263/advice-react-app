@@ -35,7 +35,7 @@ To get a local copy of the project up and running on your machine, follow these 
 
 ## Screenshots
 
-![Advice Image](src/images/adivice.png)
+![Advice Image](advice-react-app/advice-react-app/src/images/adivice.png)
 
 ## Contributing
 
